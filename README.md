@@ -1,4 +1,7 @@
 ﻿# clairDeLune
+
+**CAHIER DES CHARGES**
+*(en cours. pour les collaborateurs [ICI](https://docs.google.com/document/d/1u99wa3-rIoqvU_6UyCgqygSW4w3yNHP9yoZE8MNg92c/edit) )*
  
 **USER STORIES**
 voir les user stories sur draw.io [ICI](https://app.diagrams.net/#G1350UsJ8IxQpX_fI2kHw4Y6hmGTFYq2ua#%7B%22pageId%22%3A%22mNn2Te_9kdLdxFRugcm6%22%7D)
